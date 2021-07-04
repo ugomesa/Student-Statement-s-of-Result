@@ -1,0 +1,17 @@
+For security Reason I will hass MY private Key ID and email
+
+
+
+{
+  "type": "service_account",
+  "project_id": "xxxxxx-gcp-f873055fe38-43a60",
+  "private_key_id": "a29f3a0275556ba8bbc6922xxxxxaxxxxxxx8d5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDRa+O8PGWhAZ0U\neuTkbXqF5Zyppr/bUQIXmvGO9ua+rEE+7qrDIiYIF5mG78etUVggzUUvKsNbxOj6\nLXvin11myzGm0lvggPi3BFjO0PhSbDEZ1yD14+ng6Zs57gr0DTO7m6XaFrpgfXrk\n3SYEGvg9j8YkDTiiiMN4GF4wJ0aSLMWxF4brE+8/qFKbrhHE9RiS5w1qgb+Tir+r\nqFJ+1Jhgo0XewvtoubQ558K5Go/lONsHHxtR83Wduh/pYt2lQjdJ+NGt0JT2xg0E\n5fvyLJ8t4eAkbiDxLV0CXJJOkpcMGMBtwq0iVNBHUiaKaQ8z3wi0N/16VYo35vSS\n/ovuTBQ/AgMBAAECggEAVZX5puKqCBBwQT/uTnp9gb4yddT7gKaNK9d7VBmMeK1O\nJumEKSZKE7GNYWuaF7dwREuPtDSOTXFeY2v2PsoxckKlgo9i1A/xVV516uPVMF4d\n/PkB8+vWl7/w285wdIf2tfvo3oW+WpO9h03n7PKWtBYPfIlYtXgeJnUS/Sv39+GN\nyIlvHwsFxW8REYguBCcaIpAAuoo4SnufPe+WO6hnnbTBY+ViOX7dKPAwI1I+zusM\nQEdusOvC35ZzwTm/eVnT7plPKwHdg8l9uB1G6kcVCbI35CIVlW/GVBvD/rO3QFoV\n+nKJm1ZfInuyLLGtnIceVlnQPddIndBa9zQHSw4pdQKBgQD0qzeoQvjtIYkmIbBb\ntLGoGzqxTBWr7Yrs5MhDdR97lqt7ZWMA+d/+DplznPUUegPpCIYcFrlUtWkXzz1J\n3W6h+gIrliYOjP5Zo6b80F0AdUtLZLGXGDq9VarW4boMAwEhruB94pV30eizDT1g\n5rGfjsNpazcaIpKV3rFuselxHQKBgQDbHsfn8U4VeSjgDblMZ6SF8Wi0ZHliHmJ8\nJDd7AkjF9j4NQCDyMLZUqfKcyLDWm0L8C+pGWF7H+HivXhridRL7/vhsjx+LgZgW\nO9ckfU5hsJSxRs/mseKStwLohU2XoyMnUkPOUj9Vd+TUpfiL+LSMrwdfAo8tIewz\n7SXx7peYCwKBgBKcR3KEDZ0z9NOyslB3cSABWjiMOgXG3s9gI5+F9CwZbNfJAXvc\nhd40TBXQNZAmK8/49wKB8/zug5ztBZNtxXGKq8mW9TQcI2i8GwKV8s0LHvwQH7YH\ngMhQENuhdd5eCCMAw1CwAICJtfKQqj+JrK8fU9vb7OgPAyllNAfgfoo9AoGAELUP\nHwNKJd8AG91QBKBebgwTJLYIf0+7yKVmSY3KCLYW0yHRoUXPkTMIGaY/vY1HFTq/\nWS/BwlOSuCRfvmaY1PgC7xwWlqeB9igH5nNbd51kKQQyM+/aS7+CjEIlwWsh8gyW\nuPOSeqzSmNgy1FFZSuTJlhf23MUaYncxjnnXuzMCgYBwLtOGJhhvwiT8o1PIdhlx\nKgiMagfpgix30H1rzWwM/ggjgByY+y0Nc/tcdZ2ffcmcrAg5994uZDovPMnwn5Es\nRQOwm7js6x/jF4Bak02SuHNgJ6NP0izlbH1Go08Dz2cWF5sL3cX1RGLPikNBMZ7M\nzPjvOx23pJhafRk2gj95Fw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "statement-xx-result@qwiklabs-gcp-f873055fe38-43a60.iam.gserviceaccount.xxx",
+  "client_id": "1085181161xxxxxxxxxxx",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/statement-of-result%40qwiklabs-gcp-f873055fe38-43a60.iam.gserviceaccount.com"
+}
+
